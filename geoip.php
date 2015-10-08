@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: John Gamboa's GEO IP Redirects
+Plugin Name: John Gamboa's GeoIP Redirect Example
 Description: Redirecting visitor traffic based on geo-location using the WPEngine GEO IP feature
 Version: 1.0
 License: GPLv2
