@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: John Gamboa's GeoIP Redirect Example
-Description: Redirecting visitor traffic based on geo-location using the WPEngine GEO IP feature
-Version: 1.0
+Plugin Name: John Gamboa's GeoTarget Redirect Example
+Description: Redirecting visitor traffic based on geo-location using the WPEngine GeoTarget feature
+Version: 1.1
 License: GPLv2
 */
 
